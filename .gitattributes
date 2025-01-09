@@ -1,2 +1,4 @@
 Dataset.xlsx filter=lfs diff=lfs merge=lfs -text
 narratives.xlsx filter=lfs diff=lfs merge=lfs -text
+3.NTSB事故数据集/原始事故数据集/narratives.xlsx filter=lfs diff=lfs merge=lfs -text
+3.NTSB事故数据集/数据预处理后的数据集/Dataset.xlsx filter=lfs diff=lfs merge=lfs -text
