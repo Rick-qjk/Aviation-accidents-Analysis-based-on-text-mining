@@ -1,0 +1,6 @@
+对爬取的ASN事故数据进行初步统计分析。
+航班性质Nature筛选出Passenger - Scheduled和Cargo
+事故事件类型Category选择Accident
+Confidence Rating选择Information is only available from news, social media or unofficial sources
+并利用fasttext进行语言检测,删除非英语表示的事故数据
+绘制事故严重程度图和飞行阶段事故数据图
